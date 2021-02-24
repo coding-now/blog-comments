@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T06:28:33.951Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="G0Bh3z76f3Z2u2BV3dTy" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T06:54:35.185Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="4IFlvNmZ8N1wxF0fsEno" version="14.4.2" type="github">
   <diagram id="CqKgXVSQxGHPNevCZqUV" name="Page-1">
-    <mxGraphModel dx="1463" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,27 @@
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-40" value="返回" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-41" value="查看数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="145" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="850" width="1051" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-43" value="项目初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="860" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-44" value="1、选择 gaea版本" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="920" width="222" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-45" value="2、个性化组件选择" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1000" width="222" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-46" value="生成项目代码" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="88" y="1100" width="222" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-48" value="console&amp;nbsp;&lt;br&gt;&lt;br&gt;操作提示&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="890" width="550" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
