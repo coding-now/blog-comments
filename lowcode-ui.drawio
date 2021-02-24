@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T06:26:05.808Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="yZ7Nfmx3eluGDNyOUNgj" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T06:28:33.951Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="G0Bh3z76f3Z2u2BV3dTy" version="14.4.2" type="github">
   <diagram id="CqKgXVSQxGHPNevCZqUV" name="Page-1">
     <mxGraphModel dx="1463" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-3" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="860" height="160" as="geometry" />
+          <mxGeometry x="60" y="80" width="950" height="160" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-3">
-          <mxGeometry width="860" height="59" as="geometry" />
+          <mxGeometry width="950" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-5" value="项目名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-4">
           <mxGeometry width="286" height="59" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="286" width="288" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-7" value="操作" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-4">
-          <mxGeometry x="574" width="286" height="59" as="geometry" />
+          <mxGeometry x="574" width="376" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-3">
-          <mxGeometry y="59" width="860" height="51" as="geometry" />
+          <mxGeometry y="59" width="950" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-8">
           <mxGeometry width="286" height="51" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="286" width="288" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-8">
-          <mxGeometry x="574" width="286" height="51" as="geometry" />
+          <mxGeometry x="574" width="376" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-3">
-          <mxGeometry y="110" width="860" height="50" as="geometry" />
+          <mxGeometry y="110" width="950" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-12">
           <mxGeometry width="286" height="50" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="286" width="288" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="DJcWxmNhIZkxOvcVtfXt-12">
-          <mxGeometry x="574" width="286" height="50" as="geometry" />
+          <mxGeometry x="574" width="376" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-19" value="基础配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="145" width="70" height="30" as="geometry" />
@@ -86,13 +86,19 @@
           <mxGeometry x="840" y="604" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-31" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;" vertex="1" parent="1">
-          <mxGeometry x="990" y="572" width="30" height="30" as="geometry" />
+          <mxGeometry x="1000" y="614" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-33" value="自动生成的名称代码分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="534" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-34" value="功能开发分支：dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="534" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-39" value="保存" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-40" value="返回" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="690" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
