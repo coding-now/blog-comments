@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T07:13:54.233Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="pgwpWFmFZ2KvRc4awLoa" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T07:49:55.274Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="y53dOKZiooFz4Em92cJL" version="14.4.2" type="github">
   <diagram id="CqKgXVSQxGHPNevCZqUV" name="Page-1">
-    <mxGraphModel dx="1102" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-31" value="+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=7;" vertex="1" parent="1">
           <mxGeometry x="1000" y="614" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DJcWxmNhIZkxOvcVtfXt-33" value="自动生成的名称代码分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DJcWxmNhIZkxOvcVtfXt-33" value="自动生成的代码分支：dev/dev-auto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="534" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DJcWxmNhIZkxOvcVtfXt-34" value="功能开发分支：dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
